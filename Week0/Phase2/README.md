@@ -2,19 +2,19 @@ In this project, I practiced converting SQL queries into PySpark DataFrame opera
 
 I learned alot and performed some actions like
 
- Creating DataFrames for customers and orders
- Performing joins between datasets using customer_id
- Applied groupBy and aggregation functions like sum, avg, and count
- Handled missing data using left join and null filtering
- Sorted data and retrieved top results
+Creating DataFrames for customers and orders
+Performing joins between datasets using customer_id
+Applied groupBy and aggregation functions like sum, avg, and count
+Handled missing data using left join and null filtering
+Sorted data and retrieved top results
  
 I solved different problems to get good grip over the concepts i learned.
 
-1. Calculated total order amount for each customer
-2. Identified top 3 customers based on total spending
-3. Found customers who did not place any orders
-4. Calculated city-wise total revenue
-5. Computed average order amount per customer
-6. Identified customers with more than one order
-7. Sorted customers by total spending in descending order
+Calculated total order amount for each customer
+Identified top 3 customers based on total spending
+Found customers who did not place any orders
+Calculated city-wise total revenue
+Computed average order amount per customer
+Identified customers with more than one order
+Sorted customers by total spending in descending order
 
