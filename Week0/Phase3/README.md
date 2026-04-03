@@ -1,10 +1,16 @@
 Process Workflow
 1. Data Loading
+   
    Loaded CSV files using PySpark
+   
    Used header option to read column names
+   
 2. Data Cleaning
+   
    Removed null values using dropna()
+   
    Converted total_amount to integer type for calculations
+   
 3. Data Processing & Analysis
 ## I tried to solve different queries like
 1. Daily Sales
