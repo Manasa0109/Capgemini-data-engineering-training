@@ -1,17 +1,5 @@
-#  Phase 1 – Sales Data Analysis using PySpark
 
-##  Overview
-
-In this task, I worked on analyzing sales and customer data using PySpark. The goal was to perform real-world data transformations and generate meaningful business insights from raw datasets.
-
-I used two datasets:
-- Customers data
-- Sales data
-
-By combining these datasets, I performed multiple analytical operations such as revenue calculation, customer analysis, and segmentation.
-
----
-##  Key Concepts Applied
+##  Key Concepts Learned and implemented
 
 During this task, I strengthened my understanding of:
 
