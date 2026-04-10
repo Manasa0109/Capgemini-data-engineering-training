@@ -19,7 +19,7 @@ Orders dataset
 
 Performed join operation using customer_id
 
-Applied:
+## Applied:
 
 Filtering (based on city)
 
@@ -54,7 +54,7 @@ Handling column references after join (same column names issue)
 
 Debugging errors due to small syntax mistakes
 
-## How I Learned / Solved Them
+## How I Learned Them
 
 Practiced small examples step by step instead of jumping into complex logic
 
