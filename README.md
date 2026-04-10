@@ -1,6 +1,6 @@
 ## Capgemini Training Repository
 
- Overview
+ ## Overview
 
 This repository contains all the learning materials, practice problems, and mini-projects completed during my Capgemini training preparation. It focuses on strengthening core concepts required for placements and real-world development.
 
