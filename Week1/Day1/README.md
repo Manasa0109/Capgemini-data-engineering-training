@@ -19,7 +19,7 @@ Orders dataset
 
 Performed join operation using customer_id
 
-## Applied:
+## Applied
 
 Filtering (based on city)
 
