@@ -1,6 +1,6 @@
-### Day 2 – SQL Aggregations & Joins Practice
+## Day 2 – SQL Aggregations & Joins Practice
 
-## Overview
+### Overview
 
 On Day 2, I worked on SQL queries using Employee and Sales datasets.
 
@@ -8,7 +8,7 @@ I performed data insertion, aggregation, filtering using HAVING, and joins to an
 
 This task helped me understand how SQL is used for real-world data analysis.
 
-## What I Did
+### What I Did
 
 Inserted data into Sales table
 
@@ -28,14 +28,14 @@ Applied HAVING clause for filtering aggregated results
 
 Performed INNER JOIN between Employee and Sales
 
-## Used
+### Used
 
 ORDER BY
 LIMIT
 DISTINCT
 YEAR() function
 
-## What I Learned
+### What I Learned
 
 Difference between WHERE vs HAVING
 
@@ -59,7 +59,7 @@ Department with highest revenue
 
 Writing optimized SQL queries for analysis
 
-## Challenges Faced
+### Challenges Faced
 
 Confusion between WHERE and HAVING clause
 
@@ -71,7 +71,7 @@ Getting unexpected large outputs due to incorrect joins
 
 Understanding how aggregation works after join
 
-## How I Solved It
+### How I Solved It
 
 Practiced queries step-by-step.
 
@@ -83,7 +83,7 @@ Re-ran queries and debugged logically
 
 Practiced multiple variations of aggregation queries
 
-## Outcome
+### Outcome
 
 Gained strong understanding of SQL aggregations and joins
 
